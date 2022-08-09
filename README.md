@@ -82,8 +82,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screen Shot](public\img\product_screenshot.png)](http://annales.tutoratcarabienancy.org/)
-[![Screen Shot](public\img\product_screenshot_2.png)](http://annales.tutoratcarabienancy.org/)
+[![Screen Shot](public/img/product_screenshot.png)](http://annales.tutoratcarabienancy.org/)
+[![Screen Shot](public/img/product_screenshot_2.png)](http://annales.tutoratcarabienancy.org/)
 
 
 This project is a web app displaying trainings sessions for students.
