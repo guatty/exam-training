@@ -1,0 +1,12 @@
+{
+    "P2_UE14_17_18_2e": {
+        "name": "FGSM2 (P2) - UE14 (Nutrition 17/18) - 2ème session",
+        "code": "P2_UE14_17_18_2e",
+        "annee_sco": "17/18",
+        "UE": "UE14",
+        "promo": "P2",
+        "session": 2,
+        "nom_UE": "Nutrition",
+        "file_stem": "Annale UE14 Septembre 2018"
+    }
+}
